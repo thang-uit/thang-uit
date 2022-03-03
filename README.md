@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ThangUIT</h1>
-<h3 align="center">Android không chỉ là hệ điều hành, mà Android còn là một hệ tư tưởng.</h3>
+<h2 align="center">Android không chỉ là hệ điều hành, mà Android còn là một hệ tư tưởng.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
