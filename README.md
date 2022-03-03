@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ThangUIT</h1>
+<h1 align="center">Hi👋, I'm ThangUIT</h1>
 <h2 align="center">Android không chỉ là hệ điều hành, mà Android còn là một hệ tư tưởng.</h2>
 
 <p align="center">
