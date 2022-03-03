@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm ThangUIT</h1>
 <h2 align="center">Android không chỉ là hệ điều hành, mà Android còn là một hệ tư tưởng.</h2>
 
-<img src="./image/android.png" alt="Android Logo" style="text-align: center;"/>
+<p align="center">
+  <img src="./image/android.png" alt="Android Logo"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
