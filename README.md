@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ThangUIT</h1>
 <h2 align="center">Android không chỉ là hệ điều hành, mà Android còn là một hệ tư tưởng.</h2>
 
+<img src="./image/android.png" alt="Android Logo"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thanguit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanguit" height="30" width="40" /></a>
