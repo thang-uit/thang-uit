@@ -1,23 +1,24 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B0F14,45:1F7A4D,100:3DDC84&text=Chu%20Nam%20Thang&fontColor=FFFFFF&fontSize=44&fontAlignY=36&animation=fadeIn&desc=Mobile%20Developer%20%7C%20Android%20%7C%20iOS%20%7C%20Flutter%20%7C%20React%20Native&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B0F14,48:1F7A4D,100:3DDC84&text=Chu%20Nam%20Thang&fontColor=FFFFFF&fontSize=44&fontAlignY=36&animation=fadeIn&desc=Mobile%20Developer&descAlignY=58&descSize=17"
     alt="Chu Nam Thang profile banner"
     width="100%"
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2600&pause=700&color=3DDC84&center=true&vCenter=true&width=900&lines=Mobile+Developer;Android+first,+product+focused;Native+Android+%7C+iOS+%7C+Flutter+%7C+React+Native;Backend,+CMS,+release,+observability"
-    alt="Animated mobile developer headline"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2600&pause=800&color=3DDC84&center=true&vCenter=true&width=900&lines=Mobile+Developer;Android-first+engineer;Clean+architecture,+stable+releases;Product-minded+mobile+systems"
+    alt="Animated Mobile Developer headline"
   />
 
   <br />
 
-  <img src="./image/android.png" alt="Android Logo" width="420" />
+  <img src="./assets/brand/android.png" alt="Android logo" width="360" />
 
   <h2>Android không chỉ là hệ điều hành, mà Android còn là một hệ tư tưởng.</h2>
 
   <p>
-    I build mobile products with practical architecture, stable releases, polished UI, and the backend or web systems needed to support them.
+    <strong>Mobile Developer</strong> building Android-first products with clean architecture,
+    stable releases, thoughtful UI, and practical production habits.
   </p>
 
   <p>
@@ -30,42 +31,70 @@
     <a href="https://github.com/thang-uit">
       <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://www.youtube.com/channel/UCqRIlPMyax3ReAyzMr4GXlg">
-      <img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
   </p>
 </div>
 
 ---
 
-## Mobile Engineering Focus
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>Profile</h2>
+      <p>
+        I care about the full path from product idea to mobile release: clear flows,
+        maintainable code, reliable API integration, readable interfaces, and enough
+        documentation for the next developer to keep moving.
+      </p>
+      <p>
+        My strongest direction is Android, supported by practical experience across
+        frontend, backend, CMS workflows, Firebase, observability, and deployment.
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h2>Signal</h2>
+      <ul>
+        <li>Android-first mobile engineering</li>
+        <li>Clean architecture and reusable UI</li>
+        <li>API, notification, analytics, and crash flow integration</li>
+        <li>Responsive thinking from mobile to web support tools</li>
+        <li>Production-minded verification before release</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Engineering Focus
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Product Mobile</h3>
+    <td width="50%" valign="top">
+      <h3>Mobile Architecture</h3>
       <p>
-        Native Android, iOS ecosystem awareness, Flutter, React Native, responsive UI, app lifecycle, permissions, deep links, push notifications, analytics, and release preparation.
+        Native Android, Kotlin, Java, lifecycle-aware screens, permissions, deep links,
+        push notifications, release preparation, and stable app structure.
       </p>
     </td>
-    <td width="50%">
-      <h3>Production Systems</h3>
+    <td width="50%" valign="top">
+      <h3>Product UI</h3>
       <p>
-        Backend APIs, CMS workflows, PostgreSQL, Redis, Firebase, Crashlytics, CI-ready structure, environment hygiene, and maintainable documentation.
+        Mobile-first layouts, design consistency, theme systems, localization,
+        image-heavy screens, accessibility, and responsive behavior.
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>UI and Experience</h3>
+    <td width="50%" valign="top">
+      <h3>System Integration</h3>
       <p>
-        Recruiter-facing interfaces, mobile-first layouts, theme systems, localization, image galleries, lightweight animation, and accessibility-conscious interaction states.
+        REST APIs, Firebase, PostgreSQL, Redis, CMS workflows, auth boundaries,
+        data contracts, and backend support for mobile features.
       </p>
     </td>
-    <td width="50%">
-      <h3>Engineering Habits</h3>
+    <td width="50%" valign="top">
+      <h3>Delivery Habits</h3>
       <p>
-        Clean naming, small components, explicit data models, testable flows, careful dependency upgrades, readable README files, and production-minded verification.
+        Clean naming, small components, explicit models, careful dependency changes,
+        readable docs, and focused checks before pushing code.
       </p>
     </td>
   </tr>
@@ -75,7 +104,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Mobile</h3>
       <p>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=0B0F14" alt="Android" />
@@ -86,7 +115,7 @@
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Frontend</h3>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -98,7 +127,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Backend and Data</h3>
       <p>
         <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -108,7 +137,7 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=0B0F14" alt="Firebase" />
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Tooling</h3>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -121,16 +150,15 @@
   </tr>
 </table>
 
-## How I Build
+## Build Loop
 
 ```text
-Mobile first
-  -> understand the user flow
+Understand the flow
+  -> model the data contract
   -> design stable UI states
-  -> keep data and presentation separate
-  -> integrate APIs, notifications, analytics, and crash monitoring
+  -> integrate APIs and platform services
   -> verify on real screen sizes
-  -> document enough for the next developer
+  -> document the decisions that matter
 ```
 
 ## GitHub Signal
@@ -165,7 +193,7 @@ Mobile first
   />
 </div>
 
-## Connect
+## Professional Links
 
 <div align="center">
   <a href="https://thangbeo-dev-resume.vercel.app/">
@@ -174,20 +202,14 @@ Mobile first
   <a href="https://www.linkedin.com/in/thanguit/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/ThangUIT2018/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/thang_uit/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCqRIlPMyax3ReAyzMr4GXlg">
-    <img src="https://img.shields.io/badge/YouTube-FF0033?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://github.com/thang-uit">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:3DDC84,55:1F7A4D,100:0B0F14&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=105&color=0:3DDC84,55:1F7A4D,100:0B0F14&section=footer"
     alt="Footer wave"
     width="100%"
   />
