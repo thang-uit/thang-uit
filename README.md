@@ -73,27 +73,53 @@
 
 ## Tech Stack
 
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=androidstudio,android,kotlin,java,swift,flutter,dart,react,ts,nextjs,vite,tailwind"
-    alt="Mobile and frontend technologies"
-  />
-  <br />
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,redis,firebase,docker,git,github,figma,vercel"
-    alt="Backend, tooling, and deployment technologies"
-  />
-</div>
-
-## Selected Work
-
-| Project | What I Worked On | Stack and Focus |
-| --- | --- | --- |
-| **CareBong** | Healthcare and medical tourism mobile experience with real app screenshots, multilingual UI, and production product flows. | Flutter, Firebase, CMS, mobile UX |
-| **CamID and eKYC modules** | Camera, identity verification, mobile capture flow, app integration, and reliability-focused implementation. | Android, Java, Kotlin, Camera, OCR flow |
-| **AppAbove and mBCCS** | Internal business mobile workflows, release support, Firebase services, crash monitoring, and enterprise app maintenance. | Android, Firebase, Crashlytics, FCM |
-| **ToastPerfect Library** | Android toast library focused on reusable UI states, clean API usage, and developer-friendly documentation. | Android Library, Kotlin, Java |
-| **ThangBeo Dev Resume** | Personal portfolio rebuilt with React, Tailwind CSS, Vite, bilingual content, music controls, gallery lightbox, and Vercel deployment. | React, TypeScript, Tailwind CSS, Vite, Vercel |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Mobile</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=0B0F14" alt="Android" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Frontend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Backend and Data</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=0B0F14" alt="Firebase" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Tooling</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## How I Build
 
